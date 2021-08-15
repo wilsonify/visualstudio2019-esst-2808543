@@ -206,3 +206,5 @@ FakesAssemblies/
 *.opt
 
 project.lock.json
+
+.idea/
